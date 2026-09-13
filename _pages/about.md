@@ -26,6 +26,7 @@ My research interest includes computer vision and remote sensing.
 
 # 📝 Publications 
 
+## Remote Sensing Image Segmentation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ros-sam.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -38,6 +39,8 @@ Zhe Shan, Yang Liu, Lei Zhou, Cheng Yan, **Heng Wang**, Xia Xie
 </div>
 </div>
 
+
+## Hyperspectral Image Classification
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/SSupMamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -49,6 +52,8 @@ Minghao Zhu, **Heng Wang**, Yuebo Meng, Shengjun Xu, Yaohai Lin, Zhe Shan, Zongf
 </div>
 </div>
 
+
+## Hyperspectral Object Tracking
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2026</div><img src='images/SiamMDR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -56,10 +61,11 @@ Minghao Zhu, **Heng Wang**, Yuebo Meng, Shengjun Xu, Yaohai Lin, Zhe Shan, Zongf
 
 Minghao Zhu, Chongchong Wang, **Heng Wang**, Yuebo Meng, Yaohai Lin, Junyi Li, Zongfang Ma
 
-
 - Siamese Mamba with Dynamic Relational Matcher for Hyperspectral Object Tracking. 
 </div>
 </div>
+
+
 
 
 # 🎖 Honors and Awards
