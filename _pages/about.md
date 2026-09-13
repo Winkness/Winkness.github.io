@@ -75,10 +75,11 @@ Zhe Shan, Yang Liu, Lei Zhou, Cheng Yan, **Heng Wang**, Xia Xie
 - *2021.10* xxxxx.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, xxxx.
+- *2026.09 - now*, Xi'an Jiaotong University.
+- *2022.09 - 2025.06*, Xi’an University of Architecture and Technology.
 
 # 💬 Invited Talks
 - *2021.06*, xxxx.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, xxxx, China.
