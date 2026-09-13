@@ -77,7 +77,6 @@ Zhe Shan, Yang Liu, Lei Zhou, Cheng Yan, **Heng Wang**, Xia Xie
 # 📖 Educations
 - *2026.09 - now*, Xi'an Jiaotong University.
 - *2022.09 - 2025.06*, Xi’an University of Architecture and Technology.
-- *2017.09 - 2021.06*, Tianjin College, University of Science and Technology Beijing.
 
 # 💬 Invited Talks
 - *2021.06*, xxxx.
