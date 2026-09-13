@@ -41,7 +41,7 @@ Zhe Shan, Yang Liu, Lei Zhou, Cheng Yan, **Heng Wang**, Xia Xie
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/SSupMamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Self-Supervised Mamba for HyperspectralImage Classiﬁcation](https://www.researchgate.net/publication/396665431_Self-Supervised_Mamba_for_Hyperspectral_Image_Classification)
+[Self-Supervised Mamba for Hyperspectral Image Classiﬁcation](https://www.researchgate.net/publication/396665431_Self-Supervised_Mamba_for_Hyperspectral_Image_Classification)
 
 Minghao Zhu, **Heng Wang**, Yuebo Meng, Shengjun Xu, Yaohai Lin, Zhe Shan, Zongfang Ma
 
