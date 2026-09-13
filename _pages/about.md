@@ -26,7 +26,7 @@ My research interest includes computer vision and remote sensing.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ros-sam.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Ros-sam: High-quality interactive segmentation for remote sensing moving object](https://arxiv.org/pdf/2503.12006)
