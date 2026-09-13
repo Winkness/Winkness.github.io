@@ -49,7 +49,18 @@ Minghao Zhu, **Heng Wang**, Yuebo Meng, Shengjun Xu, Yaohai Lin, Zhe Shan, Zongf
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2026</div><img src='images/SiamMDR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Siamese Mamba with Dynamic Relational Matcher for Hyperspectral Object Tracking](https://www.sciencedirect.com/science/article/pii/S0031320326010484)
+
+Minghao Zhu, Chongchong Wang, **Heng Wang**, Yuebo Meng, Yaohai Lin, Junyi Li, Zongfang Ma
+
+
+- Siamese Mamba with Dynamic Relational Matcher for Hyperspectral Object Tracking. 
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
