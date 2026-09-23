@@ -30,7 +30,7 @@ My research interest includes computer vision and remote sensing.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/SSupMamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Self-Supervised Mamba for Hyperspectral Image Classiﬁcation](https://www.researchgate.net/publication/396665431_Self-Supervised_Mamba_for_Hyperspectral_Image_Classification)
+[Self-Supervised Mamba for Hyperspectral Image Classification](/docs/Self-Supervised_Mamba_for_Hyperspectral_Image_Classification.pdf)
 
 Minghao Zhu, **Heng Wang**, Yuebo Meng, Shengjun Xu, Yaohai Lin, Zhe Shan, Zongfang Ma
 
@@ -68,7 +68,7 @@ Zhe Shan, Yang Liu, Lei Zhou, Cheng Yan, **Heng Wang**, Xia Xie
 
 # 📝 Publications 
 - **[Hyperspectral Object Tracking]** [Siamese Mamba with Dynamic Relational Matcher for Hyperspectral Object Tracking](https://www.sciencedirect.com/science/article/pii/S0031320326010484), Minghao Zhu, Chongchong Wang, **Heng Wang**, Yuebo Meng, Yaohai Lin, Junyi Li, Zongfang Ma. *Pattern Recognition* 2026.
-- **[Hyperspectral Image Classification]** [Self-Supervised Mamba for Hyperspectral Image Classiﬁcation](https://www.researchgate.net/publication/396665431_Self-Supervised_Mamba_for_Hyperspectral_Image_Classification), Minghao Zhu, **Heng Wang**, Yuebo Meng, Shengjun Xu, Yaohai Lin, Zhe Shan, Zongfang Ma. *IEEE Transactions on Geoscience and Remote Sensing* 2025.
+- **[Hyperspectral Image Classification]** [Self-Supervised Mamba for Hyperspectral Image Classification](/docs/Self-Supervised_Mamba_for_Hyperspectral_Image_Classification.pdf), Minghao Zhu, **Heng Wang**, Yuebo Meng, Shengjun Xu, Yaohai Lin, Zhe Shan, Zongfang Ma. *IEEE Transactions on Geoscience and Remote Sensing* 2025.
 - **[Remote Sensing Image Segmentation]** [ROS-SAM: High-Quality Interactive Segmentation for Remote Sensing Moving Object](https://arxiv.org/pdf/2503.12006), Zhe Shan, Yang Liu, Lei Zhou, Cheng Yan, **Heng Wang**, Xia Xie. *IEEE/CVF Conference on Computer Vision and Pattern Recognition* 2025.
 
 # 🎖 Honors and Awards
