@@ -28,7 +28,7 @@ My research interest includes computer vision and remote sensing.
 # 📝 Selected Publications 
 
 ## Hyperspectral Image Classification
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/Hyperdino.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2026</div><img src='images/Hyperdino.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HyperDINO: Towards limited data hyperspectral image classification by parameter-efficient transfer learning](https://www.sciencedirect.com/science/article/pii/S0925231226031413)
