@@ -21,10 +21,24 @@ My research interest includes computer vision and remote sensing.
 
 
 # 🔥 News
+- *2026.11*: One paper on **Hyperspectral Image Classification** is accepted by Neurocomputing.
 - *2026.05*: One paper on **Hyperspectral Object Tracking** is accepted by PR.
 - *2025.10*: One paper on **Hyperspectral Image Classification** is accepted by TGRS.
 
 # 📝 Selected Publications 
+
+## Hyperspectral Image Classification
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/Hyperdino.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HyperDINO: Towards limited data hyperspectral image classification by parameter-efficient transfer learning](https://www.sciencedirect.com/science/article/pii/S0925231226031413)
+
+Yuxing Jing, **Heng Wang**, Yunan Wang
+
+[**Project**](https://github.com/Winkness/HyperDINO) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- HyperDINO: Towards limited data hyperspectral image classification by parameter-efficient transfer learning. 
+</div>
+</div>
 
 ## Hyperspectral Image Classification
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/SSupMamba.png' alt="sym" width="100%"></div></div>
@@ -67,6 +81,7 @@ Zhe Shan, Yang Liu, Lei Zhou, Cheng Yan, **Heng Wang**, Xia Xie
 
 
 # 📝 Publications 
+- **[Hyperspectral Image Classification]** [Siamese Mamba with Dynamic Relational Matcher for Hyperspectral Object Tracking](https://www.sciencedirect.com/science/article/pii/S0031320326010484), Yuxing Jing, **Heng Wang**, Yunan Wang. *Neurocomputing* 2026.
 - **[Hyperspectral Object Tracking]** [Siamese Mamba with Dynamic Relational Matcher for Hyperspectral Object Tracking](https://www.sciencedirect.com/science/article/pii/S0031320326010484), Minghao Zhu, Chongchong Wang, **Heng Wang**, Yuebo Meng, Yaohai Lin, Junyi Li, Zongfang Ma. *Pattern Recognition* 2026.
 - **[Hyperspectral Image Classification]** [Self-Supervised Mamba for Hyperspectral Image Classification](/docs/Self-Supervised_Mamba_for_Hyperspectral_Image_Classification.pdf), Minghao Zhu, **Heng Wang**, Yuebo Meng, Shengjun Xu, Yaohai Lin, Zhe Shan, Zongfang Ma. *IEEE Transactions on Geoscience and Remote Sensing* 2025.
 - **[Remote Sensing Image Segmentation]** [ROS-SAM: High-Quality Interactive Segmentation for Remote Sensing Moving Object](https://arxiv.org/pdf/2503.12006), Zhe Shan, Yang Liu, Lei Zhou, Cheng Yan, **Heng Wang**, Xia Xie. *IEEE/CVF Conference on Computer Vision and Pattern Recognition* 2025.
