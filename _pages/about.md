@@ -81,7 +81,7 @@ Zhe Shan, Yang Liu, Lei Zhou, Cheng Yan, **Heng Wang**, Xia Xie
 
 
 # 📝 Publications 
-- **[Hyperspectral Image Classification]** [Siamese Mamba with Dynamic Relational Matcher for Hyperspectral Object Tracking](https://www.sciencedirect.com/science/article/pii/S0031320326010484), Yuxing Jing, **Heng Wang**, Yunan Wang. *Neurocomputing* 2026.
+- **[Hyperspectral Image Classification]** [HyperDINO: Towards limited data hyperspectral image classification by parameter-efficient transfer learning](https://www.sciencedirect.com/science/article/pii/S0031320326010484), Yuxing Jing, **Heng Wang**, Yunan Wang. *Neurocomputing* 2026.
 - **[Hyperspectral Object Tracking]** [Siamese Mamba with Dynamic Relational Matcher for Hyperspectral Object Tracking](https://www.sciencedirect.com/science/article/pii/S0031320326010484), Minghao Zhu, Chongchong Wang, **Heng Wang**, Yuebo Meng, Yaohai Lin, Junyi Li, Zongfang Ma. *Pattern Recognition* 2026.
 - **[Hyperspectral Image Classification]** [Self-Supervised Mamba for Hyperspectral Image Classification](/docs/Self-Supervised_Mamba_for_Hyperspectral_Image_Classification.pdf), Minghao Zhu, **Heng Wang**, Yuebo Meng, Shengjun Xu, Yaohai Lin, Zhe Shan, Zongfang Ma. *IEEE Transactions on Geoscience and Remote Sensing* 2025.
 - **[Remote Sensing Image Segmentation]** [ROS-SAM: High-Quality Interactive Segmentation for Remote Sensing Moving Object](https://arxiv.org/pdf/2503.12006), Zhe Shan, Yang Liu, Lei Zhou, Cheng Yan, **Heng Wang**, Xia Xie. *IEEE/CVF Conference on Computer Vision and Pattern Recognition* 2025.
